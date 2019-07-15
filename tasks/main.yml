@@ -24,3 +24,7 @@
     name: python36u-devel
     state: present
 
+- name: install python36u-pip
+  yum:
+    name: python36u-pip
+    state: present
