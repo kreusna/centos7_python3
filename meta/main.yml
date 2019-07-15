@@ -2,8 +2,7 @@ galaxy_info:
   author: kreusna
   description: python3 for centos 7
   company: your company (optional)
-
-  license: license (GPL-2.0-or-later, MIT, etc)
+  license: license (GPL-2.0, MIT)
   min_ansible_version: 2.4
   platforms:
     - name: EL
@@ -12,5 +11,3 @@ galaxy_info:
   galaxy_tags:
     - development
     - python     
-    
-
